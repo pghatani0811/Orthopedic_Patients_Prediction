@@ -1,4 +1,4 @@
-# KNN-NB-Projects
+# Orthopedic_Patients_Prediction
 
 ### Section I : Accessing the Data
 
